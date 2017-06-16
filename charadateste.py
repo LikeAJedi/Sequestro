@@ -9,5 +9,5 @@ while rc != 'A':
         break
 if rc == 'A':
     print('Parabens')
-print('Arroz')
+print('Voce conseguiu')
 
